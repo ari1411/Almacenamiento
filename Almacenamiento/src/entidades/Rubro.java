@@ -1,6 +1,6 @@
-package Ariel;
+package entidades;
 
-public class Marca {
+public class Rubro {
 	private int id;
 	private String nombre;
 	public int getId() {

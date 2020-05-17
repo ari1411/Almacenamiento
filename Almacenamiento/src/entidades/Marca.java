@@ -1,6 +1,6 @@
-package Ariel;
+package entidades;
 
-public class UnidadMedida {
+public class Marca {
 	private int id;
 	private String nombre;
 	public int getId() {

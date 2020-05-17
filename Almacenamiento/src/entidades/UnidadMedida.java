@@ -1,6 +1,6 @@
-package Ariel;
+package entidades;
 
-public class Rubro {
+public class UnidadMedida {
 	private int id;
 	private String nombre;
 	public int getId() {

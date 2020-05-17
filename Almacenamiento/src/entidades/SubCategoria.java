@@ -1,4 +1,4 @@
-package Ariel;
+package entidades;
 
 public class SubCategoria {
 	private int id;
